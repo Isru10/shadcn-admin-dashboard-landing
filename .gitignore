@@ -86,5 +86,3 @@ storybook-static
 
 # Deployment scripts (contain server-specific paths)
 *.env.production
-temp_auto_push.bat
-temp_interactive_push.bat
